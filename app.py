@@ -42,8 +42,9 @@ with st.spinner('Predicting House Price'):
   import time
   time.sleep(2)
 
-st. success(f'Estimated House Price is: $ {final_price}'}
+st. success(f'Estimated House Price is: $ {final_price}')
 st.markdown('''** Design and developed by:dev**''')
+
 
 
 
